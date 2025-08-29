@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Alpie Launch Checklist",
+    "description": "End-to-end steps for web app GA: auth, chat, workspaces, memory review, logging.",
+    "tags": ["launch", "product", "memory"],
+    "author": "team@169pi.com",
+    "created_at": "2025-08-20T10:00:00Z",
+    "pinned": false
+  },
+  {
+    "id": 2,
+    "title": "Vibe Coding – MVP Scope",
+    "description": "Run Python snippets safely, view live output, store run history, and allow replay.",
+    "tags": ["vibe-coding", "mvp", "python"],
+    "author": "eng@169pi.com",
+    "created_at": "2025-08-21T09:25:00Z",
+    "pinned": true
+  },
+  {
+    "id": 3,
+    "title": "Memory Design Notes",
+    "description": "Explicit saves, consent UI, project-level memory, and visibility of all recalls.",
+    "tags": ["memory", "design", "consent"],
+    "author": "ux@169pi.com",
+    "created_at": "2025-08-22T14:12:00Z",
+    "pinned": false
+  },
+  {
+    "id": 4,
+    "title": "Education: Reasoning Benchmarks",
+    "description": "Focus on math/logic datasets; target latency and accuracy improvements.",
+    "tags": ["education", "benchmarks", "reasoning"],
+    "author": "research@169pi.com",
+    "created_at": "2025-08-19T08:02:00Z",
+    "pinned": false
+  },
+  {
+    "id": 5,
+    "title": "Workspace UX Ideas",
+    "description": "Pin messages to memory panel, rename sessions, quick filters by tag.",
+    "tags": ["ux", "workspace", "memory"],
+    "author": "design@169pi.com",
+    "created_at": "2025-08-25T17:40:00Z",
+    "pinned": true
+  }
+]
