@@ -10,7 +10,7 @@ This project allows you to explore AI chat notes, pin important items to memory,
 - 📌 **Pin/Unpin to Memory** with a click or by pressing **M** (keyboard shortcut)  
 - 🌙 **Dark/Light Mode toggle**  
 - 🤖 **User & System Chat Bubbles** with alternating styles  
-- 🏷️ **Hashtags with clear background colors** (visible in both light/dark themes)  
+- 🏷️ **Hashtags with clear background colors** 
 - ⚡ Smooth animations using **Framer Motion**  
 - 💾 Memory persists using **LocalStorage**  
 
