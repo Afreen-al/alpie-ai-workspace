@@ -1,9 +1,7 @@
-// src/AIWorkspace.jsx
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import dataset from "./alpie_frontend_dataset.json";
 
-// Simple avatars (you can swap with images later)
 const AVATARS = {
   user: "👤",
   system: "🤖",
@@ -22,7 +20,6 @@ export default function AIWorkspace() {
     localStorage.setItem("memory", JSON.stringify(memory));
   }, [memory]);
 
-  // Keyboard shortcut: "M" for pin/unpin
   useEffect(() => {
     const handler = (e) => {
       if (e.key.toLowerCase() === "m") {
